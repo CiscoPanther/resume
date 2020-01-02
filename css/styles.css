@@ -1,0 +1,64 @@
+body {
+  background-color: white;
+}
+
+a {
+  color: #698474
+}
+
+a:hover {
+  background-color: #e5e4cc;
+}
+
+h1 {
+  color: #698474
+}
+
+h2 {
+  color: #698474
+}
+
+h3 {
+  color: #698474
+}
+
+p {
+  color: #889e81
+}
+
+th {
+  color: #698474
+}
+
+div.center {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+td {
+  color: #889e81
+}
+
+li {
+  color: #889e81
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #698474;
+  border-width: 5px;
+  width: 5%
+
+}
+
+#send {
+  background-color: #698474;
+  color: white; /* SET COLOR IN WHITE */
+}
+
+#send:hover {
+  background-color: #e5e4cc;
+  color: #698474; /* SET COLOR IN GREEN */
+}
